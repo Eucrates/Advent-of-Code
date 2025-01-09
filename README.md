@@ -1,3 +1,4 @@
-This is my [Advent of Code 2022](https://adventofcode.com/2022/about) repository.  
-This was my first time competing.
-They aren't the prettiest solutions but they worked!
+These are my working solutions to the annual Advent of Code challenges.
+
+Per the rules of Advent of Code, I can't distribute the problem text or puzzle inputs.  You can find the daily puzzles for each year at https://adventofcode.com/YYYY starting at https://adventofcode.com/2015
+
