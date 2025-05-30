@@ -1,3 +1,6 @@
+# solved with a hint about bitmasking from this reddit thread (did not look at posted solutions):
+# https://www.reddit.com/r/adventofcode/comments/1e500cf/2015_day_17_part_1_two_ways_one_works_the_other/
+
 import sys
 from itertools import product
 
