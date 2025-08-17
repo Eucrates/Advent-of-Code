@@ -1,1 +1,1 @@
-[Full Tree](2015/images/50Stars.png)
+[Full Tree](images/50Stars.png)
