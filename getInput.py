@@ -12,4 +12,4 @@ with open (file) as f:
 for line in lines:
     line = line.strip("\n")
     # do something
-    # print(line)
+    print(line)
