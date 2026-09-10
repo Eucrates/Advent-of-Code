@@ -10,7 +10,7 @@ with open (file) as f:
     lines = f.readlines()[:-1] # assumes input ends in newline
 
 
-def calculate(states,i,j):
+def calculate(states):
 
     pos = 0
     while pos < len(states):
@@ -90,6 +90,6 @@ for line in lines:
     states = [int(x) for x in states]
 
 #orig_states = [x for x in states]
-states = calculate(states,12,2)
+states = calculate(states)
 
 
